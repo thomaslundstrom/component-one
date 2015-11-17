@@ -1,6 +1,6 @@
 {
   "registry": "jspm",
-  "main": "main",
+  "main": "componentOne",
   "directories": {
     "lib": "lib"
   },
