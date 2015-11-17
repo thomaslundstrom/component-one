@@ -1,4 +1,9 @@
 {
+  "registry": "jspm",
+  "main": "main",
+  "directories": {
+    "lib": "lib"
+  },
   "jspm": {
     "dependencies": {
       "jquery": "github:components/jquery@2.0.3"
